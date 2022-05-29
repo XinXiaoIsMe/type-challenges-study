@@ -1,0 +1,1 @@
+type HelloWorld = string // 启程！
